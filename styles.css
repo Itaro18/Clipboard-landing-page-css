@@ -252,6 +252,7 @@ a:hover,i:hover
         flex-direction: column;
         gap: 2rem;
         padding: 0 3rem;
+        margin:4rem auto;
     }
 
     .more-features
@@ -268,7 +269,7 @@ a:hover,i:hover
     .companies
     {   
         width: 80%;
-        margin: 0 auto 3rem;
+        margin: 4rem auto 6rem;
         flex-direction: row;
         gap: 4rem;
         justify-content: center;
